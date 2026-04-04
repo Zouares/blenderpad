@@ -1,0 +1,12 @@
+blenderpad.zip
+__pycache__/
+*.pyc
+.DS_Store
+.directory
+.ipynb_checkpoints/
+*.blend
+*.blend1
+*.zip
+strip_comments.py
+clean_newlines.py
+/tmp/

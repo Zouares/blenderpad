@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "blenderpad"
+version = "1.0.0"
+name = "BlenderPad"
+tagline = "Control Blender viewport and scene with gamepad controllers"
+maintainer = "Zouares"
+type = "add-on"
+license = ["SPDX:GPL-2.0-or-later"]
+blender_version_min = "4.2.0"
