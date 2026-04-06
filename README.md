@@ -112,8 +112,3 @@ git checkout -b feature/your-feature
 git commit -m "Add: your feature description"
 git push origin feature/your-feature
 ```
-
----
-
-## License
-GPL-2.0-or-later
